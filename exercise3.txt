@@ -1,0 +1,3 @@
+The OutOfMemoryError happens when the Java Virtual Machine is unable to allocate an object due to not having enough memory or that the garbage collector is unable to provide any memory.
+
+Reference: https://www.geeksforgeeks.org/understanding-outofmemoryerror-exception-java/
